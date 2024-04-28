@@ -25,8 +25,7 @@ public class FractalsRunner extends Canvas{
 
     // call your functions here
     public void paint(Graphics g){
-        Functions.drawH(g, w/2, h/2, 200, Color.black);  
-        // drawIllusion(g, 300, 50, 300, 250);
+        
 
     }
 

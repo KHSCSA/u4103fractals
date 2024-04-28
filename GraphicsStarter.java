@@ -28,15 +28,15 @@ public class GraphicsStarter extends Canvas{
     public void paint(Graphics g){
 
         g.setColor(new Color(255,0,0));
-        //g.drawLine params are x1, y1, x2, y2
+        // params are x1, y1, x2, y2
         g.drawLine(100,100,200,300);
 
         g.setColor(new Color(0,255,0));
-        //g.drawRect params are top left x, y, width, height
+        // params are top left x, y, width, height
         g.drawRect(300,300, 50, 100);
 
         g.setColor(Color.BLACK);
-        //g.drawOval params are x, y, horiz_size, vert_size
+        // params are x, y, horiz_size, vert_size
         g.drawOval(400, 400, 100, 50); 
         
         
