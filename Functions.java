@@ -22,7 +22,7 @@ public class Functions {
 
 
         
-    public static void drawSierpenski(Graphics g, int x1, int y1, int x2, int y2, int x3, int y3){
+    public static void drawSierpinski(Graphics g, int x1, int y1, int x2, int y2, int x3, int y3){
 
     
     } // close method
@@ -31,7 +31,7 @@ public class Functions {
 
     
 
-    public static void drawSierpenskiCarpet(Graphics g, Color c, int x, int y, int size){
+    public static void drawSierpinskiCarpet(Graphics g, Color c, int x, int y, int size){
         //draw the 'main' square in the center
 
 
