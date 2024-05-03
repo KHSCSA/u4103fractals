@@ -16,6 +16,7 @@ public class Functions {
 
 
     public static void drawHorizLines(Graphics g, , int x1, int y1, int size){
+        // draw line, if y < ??, set gap draw another
 
 
     }
@@ -23,7 +24,9 @@ public class Functions {
 
         
     public static void drawSierpinski(Graphics g, int x1, int y1, int x2, int y2, int x3, int y3){
-
+        // calculate midpoints, draw polygon
+        // if distance between x vals > ??, call 3 more
+        
     
     } // close method
     
